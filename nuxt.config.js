@@ -1,11 +1,10 @@
-{
-  modules: [
-      '@nuxtjs/pwa',
-  ],
-},
+
 module.exports = {
 
-  
+  modules: [
+    '@nuxtjs/axios',
+    '@nuxtjs/bulma'
+],
   /*
   ** Headers of the page
   */
