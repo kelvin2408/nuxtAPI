@@ -3,7 +3,8 @@ module.exports = {
 
   modules: [
     '@nuxtjs/axios',
-    '@nuxtjs/bulma'
+    '@nuxtjs/bulma',
+    '@nuxtjs/pwa'
 ],
   /*
   ** Headers of the page

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="background-color">
     <nuxt/>
   </div>
 </template>
@@ -47,7 +47,11 @@ html {
 
 .button--grey:hover {
   color: #fff;
-  background-color: #35495e;
+  background-color: #2d6caf;
+}
+
+.background-color {
+  background-color: #35a0e7;
 }
 </style>
 
